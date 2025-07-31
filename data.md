@@ -285,7 +285,7 @@
 
 *   [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 
-*   [lnbiuc/blog-next-view](https://github.com/lnbiuc/blog-next-view) - Nuxt full-stack blog.
+*   [xkdvSrPD/blog-next-view](https://github.com/xkdvSrPD/blog-next-view) - Nuxt full-stack blog.
 
 *   [Chanzhaoyu/admin-one-vue](https://github.com/Chanzhaoyu/admin-one-vue) - Free Vue 3.x Tailwind 3.x Vite 4.x TypeScript 4.x Admin Dashboard with dark mode
 
