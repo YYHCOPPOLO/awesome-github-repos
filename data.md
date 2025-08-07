@@ -25,6 +25,10 @@
 
 ## TypeScript
 
+*   [CelestialRipple/Gamer](https://github.com/CelestialRipple/Gamer) - A simple personal website built with Next.js featuring a video game theme.
+
+*   [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Vue
+
 *   [Innei/Pastel](https://github.com/Innei/Pastel) - A comprehensive kawaii-inspired color system with OKLCH color space support, TypeScript definitions, and TailwindCSS v4 integration. Features a cute & kawaii aesthetic with soft, pastel tones.
 
 *   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -383,8 +387,6 @@
 
 *   [online-books/mqyqingfeng-Blog](https://github.com/online-books/mqyqingfeng-Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 
-*   [online-books/weekly](https://github.com/online-books/weekly) - 汇总平时看到的好文章，前端技术 & 产品研发为主...
-
 ## Python
 
 *   [vber/free-augmentcode](https://github.com/vber/free-augmentcode) - 用于无限续杯AugmentCode VSCode插件.A tool that allows you to use the AugmentCode  VSCode plugin indefinitely.
@@ -406,8 +408,6 @@
 *   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 
 *   [lvming6816077/report-monitor](https://github.com/lvming6816077/report-monitor) - 【Report Monitor】一款完整、高性能、高可用的打点监控和统计平台
-
-*   [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 
 ## Shell
 
