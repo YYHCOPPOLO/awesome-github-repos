@@ -15,10 +15,10 @@
 *   [C++](#c)
 *   [Dockerfile](#dockerfile)
 *   [C#](#c-1)
+*   [HTML](#html)
 *   [C](#c-2)
 *   [MDX](#mdx)
 *   [XSLT](#xslt)
-*   [HTML](#html)
 *   [Makefile](#makefile)
 *   [Markdown](#markdown)
 *   [SCSS](#scss)
@@ -70,8 +70,6 @@
 *   [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 
 *   [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
-
-*   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 
 *   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 
@@ -429,6 +427,14 @@
 
 *   [joakimskoog/AnApiOfIceAndFire](https://github.com/joakimskoog/AnApiOfIceAndFire) - An API of Ice And Fire is the world's greatest source for quantified and structured data from the universe of Ice and Fire (as well as the HBO series Game of Thrones).
 
+## HTML
+
+*   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+
+*   [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
+
+*   [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
+
 ## C
 
 *   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
@@ -444,12 +450,6 @@
 ## XSLT
 
 *   [mjavascript/practical-modern-javascript](https://github.com/mjavascript/practical-modern-javascript) - 🏊 Dive into ES6 and the future of JavaScript
-
-## HTML
-
-*   [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-
-*   [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 
 ## Makefile
 
