@@ -91,7 +91,7 @@
 
 *   [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
-*   [dream-num/univer](https://github.com/dream-num/univer) - Build truly AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. With Univer MCP, Univer Sheet is driven directly through natural language.
+*   [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer spreadsheet is driven directly through natural language.
 
 *   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 
@@ -253,6 +253,8 @@
 
 *   [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 
+*   [ijry/uview-plus](https://github.com/ijry/uview-plus) - 零云®uview-plus，是uni-app全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
+
 *   [rocksdanister/rain](https://github.com/rocksdanister/rain) - Rainy window wallpaper
 
 *   [xiaowumin-mark/visual-lyric](https://github.com/xiaowumin-mark/visual-lyric) -
@@ -300,8 +302,6 @@
 ## Vue
 
 *   [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
-
-*   [ijry/uview-plus](https://github.com/ijry/uview-plus) - 零云®uview-plus，是uni-app全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
 
 *   [cherryful/unocss-ui](https://github.com/cherryful/unocss-ui) - A simple Vue3 component library based on Unocss.
 
