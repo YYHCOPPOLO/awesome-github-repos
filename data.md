@@ -3,13 +3,13 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Rust](#rust)
 *   [Kotlin](#kotlin)
 *   [Go](#go)
-*   [Python](#python)
 *   [CSS](#css)
 *   [Shell](#shell)
 *   [C++](#c)
@@ -24,6 +24,8 @@
 *   [SCSS](#scss)
 
 ## TypeScript
+
+*   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 
 *   [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 
@@ -217,7 +219,19 @@
 
 *   [basefas/react-antd-admin](https://github.com/basefas/react-antd-admin) - A Management System Web powered by React. 一个使用 React 和 Antd 开发管理系统。
 
-*   [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/
+## Python
+
+*   [ahpxex/open-english-dictionary](https://github.com/ahpxex/open-english-dictionary) - 由大模型生成的开源英汉词典，提供细致双语释义并附带校验、清理、重生成等 JSON 工具链。
+
+*   [vber/free-augmentcode](https://github.com/vber/free-augmentcode) - 用于无限续杯AugmentCode VSCode插件.A tool that allows you to use the AugmentCode  VSCode plugin indefinitely.
+
+*   [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
+
+*   [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
+
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
+*   [gaplo917/Ligatured-Hack](https://github.com/gaplo917/Ligatured-Hack) - Automatically patch latest Hack Font with latest JetBrains Mono / FiraCode Ligatures
 
 ## JavaScript
 
@@ -300,8 +314,6 @@
 *   [opendigg/awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
 
 *   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-
-*   [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 
 ## Vue
 
@@ -388,18 +400,6 @@
 *   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 
 *   [unknwon/go-fundamental-programming](https://github.com/unknwon/go-fundamental-programming) - 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
-
-## Python
-
-*   [vber/free-augmentcode](https://github.com/vber/free-augmentcode) - 用于无限续杯AugmentCode VSCode插件.A tool that allows you to use the AugmentCode  VSCode plugin indefinitely.
-
-*   [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
-
-*   [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
-
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-
-*   [gaplo917/Ligatured-Hack](https://github.com/gaplo917/Ligatured-Hack) - Automatically patch latest Hack Font with latest JetBrains Mono / FiraCode Ligatures
 
 ## CSS
 
