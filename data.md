@@ -221,7 +221,7 @@
 
 ## Python
 
-*   [ahpxex/open-english-dictionary](https://github.com/ahpxex/open-english-dictionary) - 由大模型生成的开源英汉词典，提供细致双语释义并附带校验、清理、重生成等 JSON 工具链。
+*   [ahpxex/open-dictionary](https://github.com/ahpxex/open-dictionary) - 由大模型生成的开源英汉词典，提供细致双语释义并附带校验、清理、重生成等 JSON 工具链。
 
 *   [vber/free-augmentcode](https://github.com/vber/free-augmentcode) - 用于无限续杯AugmentCode VSCode插件.A tool that allows you to use the AugmentCode  VSCode plugin indefinitely.
 
