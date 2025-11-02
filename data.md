@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -22,6 +23,10 @@
 *   [Makefile](#makefile)
 *   [Markdown](#markdown)
 *   [SCSS](#scss)
+
+## Lua
+
+*   [XavierCHN/x-template](https://github.com/XavierCHN/x-template) - DOTA2自定义游戏开发模板项目，使用typesscript和react开发; Xavier's DOTA 2 custom game template using typescript and react-panorama
 
 ## TypeScript
 
@@ -217,8 +222,6 @@
 
 *   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
 
-*   [basefas/react-antd-admin](https://github.com/basefas/react-antd-admin) - A Management System Web powered by React. 一个使用 React 和 Antd 开发管理系统。
-
 ## Python
 
 *   [ahpxex/open-dictionary](https://github.com/ahpxex/open-dictionary) - The genuine open dictionary, grounded by Wikitionary and explained more with LLMs
@@ -235,7 +238,7 @@
 
 ## JavaScript
 
-*   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
+*   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM is a next-generation DOM capture engine that transforms HTML into almost any format all powered by a flexible plugin system
 
 *   [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 
