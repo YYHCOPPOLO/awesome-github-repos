@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [GDScript](#gdscript)
 *   [Lua](#lua)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -23,6 +24,10 @@
 *   [Makefile](#makefile)
 *   [Markdown](#markdown)
 *   [SCSS](#scss)
+
+## GDScript
+
+*   [MewPurPur/GodSVG](https://github.com/MewPurPur/GodSVG) - A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.
 
 ## Lua
 
@@ -219,8 +224,6 @@
 *   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-
-*   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
 
 ## Python
 
