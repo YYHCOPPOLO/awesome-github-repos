@@ -27,6 +27,8 @@
 
 ## TypeScript
 
+*   [Jerry-Terrasse/vimprove](https://github.com/Jerry-Terrasse/vimprove) - Vimprove – an interactive Vim trainer in your browser. Improve your Vim skill by doing!
+
 *   [wzdnzd/resume](https://github.com/wzdnzd/resume) - A Feature-Rich Resume Builder that Supports Flexible Customization
 
 *   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants.
@@ -222,8 +224,6 @@
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
 *   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
-
-*   [basefas/react-antd-admin](https://github.com/basefas/react-antd-admin) - A Management System Web powered by React. 一个使用 React 和 Antd 开发管理系统。
 
 ## GDScript
 
