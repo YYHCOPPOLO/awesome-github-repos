@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [GDScript](#gdscript)
 *   [Lua](#lua)
 *   [Python](#python)
-*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Rust](#rust)
@@ -24,6 +24,62 @@
 *   [Makefile](#makefile)
 *   [Markdown](#markdown)
 *   [SCSS](#scss)
+
+## JavaScript
+
+*   [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
+
+*   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
+
+*   [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
+
+*   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+
+*   [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
+
+*   [ijry/uview-plus](https://github.com/ijry/uview-plus) - 零云®uview-plus，是uni-app全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
+
+*   [rocksdanister/rain](https://github.com/rocksdanister/rain) - Rainy window wallpaper
+
+*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+
+*   [SiriusZHT/Bilibili-Public](https://github.com/SiriusZHT/Bilibili-Public) - 嗨-Sirius的bilibili视频对应源码
+
+*   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
+
+*   [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
+
+*   [scurker/currency.js](https://github.com/scurker/currency.js) - A javascript library for handling currencies
+
+*   [developit/workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
+
+*   [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
+
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
+
+*   [woai3c/Front-end-articles](https://github.com/woai3c/Front-end-articles) - 分享我的编程经验和学习心得，订阅请点 watch
+
+*   [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+
+*   [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
+
+*   [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
+
+*   [985563349/atomu](https://github.com/985563349/atomu) - 一个轻量级微信小程序状态管理库
+
+*   [CcSimple/electron-hiprint](https://github.com/CcSimple/electron-hiprint) - 静默打印，html打印，pdf打印，云打印客户端
+
+*   [CcSimple/vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint) - hiprint for Vue2/Vue3 ⚡打印、打印设计、可视化设计器、报表设计、元素编辑、可视化打印编辑
+
+*   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step 前端手写题，一步步提升 JavaScript 编程水平
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
+*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
+
+*   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+
+*   [deepfunc/react-test-demo](https://github.com/deepfunc/react-test-demo) - Web 前端单元测试到底要怎么写？看这一篇就够了
 
 ## Go
 
@@ -237,8 +293,6 @@
 
 *   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
-*   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-
 ## GDScript
 
 *   [MewPurPur/GodSVG](https://github.com/MewPurPur/GodSVG) - A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.
@@ -258,60 +312,6 @@
 *   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
 *   [gaplo917/Ligatured-Hack](https://github.com/gaplo917/Ligatured-Hack) - Automatically patch latest Hack Font with latest JetBrains Mono / FiraCode Ligatures
-
-## JavaScript
-
-*   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
-
-*   [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
-
-*   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
-
-*   [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
-
-*   [ijry/uview-plus](https://github.com/ijry/uview-plus) - 零云®uview-plus，是uni-app全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
-
-*   [rocksdanister/rain](https://github.com/rocksdanister/rain) - Rainy window wallpaper
-
-*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-
-*   [SiriusZHT/Bilibili-Public](https://github.com/SiriusZHT/Bilibili-Public) - 嗨-Sirius的bilibili视频对应源码
-
-*   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
-
-*   [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
-
-*   [scurker/currency.js](https://github.com/scurker/currency.js) - A javascript library for handling currencies
-
-*   [developit/workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
-
-*   [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
-
-*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
-
-*   [woai3c/Front-end-articles](https://github.com/woai3c/Front-end-articles) - 分享我的编程经验和学习心得，订阅请点 watch
-
-*   [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
-
-*   [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
-
-*   [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
-
-*   [985563349/atomu](https://github.com/985563349/atomu) - 一个轻量级微信小程序状态管理库
-
-*   [CcSimple/electron-hiprint](https://github.com/CcSimple/electron-hiprint) - 静默打印，html打印，pdf打印，云打印客户端
-
-*   [CcSimple/vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint) - hiprint for Vue2/Vue3 ⚡打印、打印设计、可视化设计器、报表设计、元素编辑、可视化打印编辑
-
-*   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step 前端手写题，一步步提升 JavaScript 编程水平
-
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
-*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
-
-*   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-
-*   [deepfunc/react-test-demo](https://github.com/deepfunc/react-test-demo) - Web 前端单元测试到底要怎么写？看这一篇就够了
 
 ## miscellaneous
 
