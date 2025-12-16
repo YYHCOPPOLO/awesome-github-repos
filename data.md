@@ -14,10 +14,9 @@
 *   [Kotlin](#kotlin)
 *   [CSS](#css)
 *   [Shell](#shell)
-*   [C++](#c)
 *   [Dockerfile](#dockerfile)
-*   [C#](#c-1)
-*   [C](#c-2)
+*   [C#](#c)
+*   [C](#c-1)
 *   [MDX](#mdx)
 *   [XSLT](#xslt)
 *   [HTML](#html)
@@ -258,6 +257,8 @@
 
 *   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
 *   [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
 
 *   [scurker/currency.js](https://github.com/scurker/currency.js) - A javascript library for handling currencies
@@ -423,10 +424,6 @@
 *   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
 
 *   [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
-
-## C++
-
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## Dockerfile
 
