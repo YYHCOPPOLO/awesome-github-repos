@@ -25,6 +25,8 @@
 
 ## TypeScript
 
+*   [nuxt-modules/mcp-toolkit](https://github.com/nuxt-modules/mcp-toolkit) - Create MCP servers directly in your Nuxt application. Define tools, resources, and prompts with a simple and intuitive API.
+
 *   [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas) - An React.js component library for beautifully shaded canvas https://uvcanvas.com
 
 *   [galacean/effects-runtime](https://github.com/galacean/effects-runtime) - It can load and render cool animation effects
@@ -378,8 +380,6 @@
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 *   [mx-space/mx-web-yun](https://github.com/mx-space/mx-web-yun) - ☁️ A fast & light & lovely theme for  Mix Space. 一个对可爱自以为是的前端风格。
-
-*   [cloudhao1999/cloud-app-admin](https://github.com/cloudhao1999/cloud-app-admin) - cloud-app-admin 使用了最新的 Vue3.2 + Vite3 + Element-Plus + TypeScript 等主流技术开发。
 
 ## Rust
 
