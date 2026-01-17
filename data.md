@@ -15,6 +15,7 @@
 *   [Rust](#rust)
 *   [Kotlin](#kotlin)
 *   [CSS](#css)
+*   [Fluent](#fluent)
 *   [Dockerfile](#dockerfile)
 *   [C](#c-1)
 *   [MDX](#mdx)
@@ -47,8 +48,6 @@
 *   [SiriusZHT/Bilibili-Public](https://github.com/SiriusZHT/Bilibili-Public) - 嗨-Sirius的bilibili视频对应源码
 
 *   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
-
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 *   [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
 
@@ -292,7 +291,7 @@
 
 *   [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 
-*   [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility
+*   [0xType/0xProto](https://github.com/0xType/0xProto) - A high-legibility programming font engineered to minimize cognitive load.
 
 *   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
@@ -429,6 +428,10 @@
 *   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 
 *   [lvming6816077/report-monitor](https://github.com/lvming6816077/report-monitor) - 【Report Monitor】一款完整、高性能、高可用的打点监控和统计平台
+
+## Fluent
+
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## Dockerfile
 
