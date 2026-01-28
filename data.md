@@ -74,7 +74,7 @@
 
 ## JavaScript
 
-*   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) -
+*   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 
 *   [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 
