@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Python](#python)
@@ -22,7 +23,13 @@
 *   [HTML](#html)
 *   [Markdown](#markdown)
 
+## Java
+
+*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 空盒子应用
+
 ## TypeScript
+
+*   [pd4d10/bytemd](https://github.com/pd4d10/bytemd) - ByteMD v1 repository
 
 *   [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 
@@ -208,7 +215,7 @@
 
 *   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
-*   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
+*   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
 
 *   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
 
@@ -361,10 +368,6 @@
 *   [woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering) - 一本小书《带你入门前端工程》
 
 *   [the-road-to-learn-react/the-road-to-react](https://github.com/the-road-to-learn-react/the-road-to-react) - 📓The Road to React: Your journey to master React.js
-
-*   [opendigg/awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
-
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## Vue
 
