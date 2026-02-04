@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Java](#java)
 *   [TypeScript](#typescript)
+*   [Java](#java)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [Rust](#rust)
@@ -23,11 +23,9 @@
 *   [HTML](#html)
 *   [Markdown](#markdown)
 
-## Java
-
-*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 空盒子应用
-
 ## TypeScript
+
+*   [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) - 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
 
 *   [pd4d10/bytemd](https://github.com/pd4d10/bytemd) - ByteMD v1 repository
 
@@ -211,6 +209,10 @@
 
 *   [antfu/iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
 
+## Java
+
+*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 空盒子应用
+
 ## Shell
 
 *   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -316,8 +318,6 @@
 *   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step 前端手写题，一步步提升 JavaScript 编程水平
 
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
-*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 
 ## C\#
 
