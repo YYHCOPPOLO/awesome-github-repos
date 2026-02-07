@@ -8,7 +8,6 @@
 *   [Python](#python)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
-*   [C#](#c)
 *   [Go](#go)
 *   [GDScript](#gdscript)
 *   [Lua](#lua)
@@ -17,6 +16,7 @@
 *   [Kotlin](#kotlin)
 *   [CSS](#css)
 *   [Dockerfile](#dockerfile)
+*   [C#](#c)
 *   [C](#c-1)
 *   [MDX](#mdx)
 *   [XSLT](#xslt)
@@ -227,6 +227,8 @@
 
 *   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
+*   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+
 *   [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 
 *   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -318,12 +320,6 @@
 *   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step 前端手写题，一步步提升 JavaScript 编程水平
 
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
-## C\#
-
-*   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
-
-*   [joakimskoog/AnApiOfIceAndFire](https://github.com/joakimskoog/AnApiOfIceAndFire) - An API of Ice And Fire is the world's greatest source for quantified and structured data from the universe of Ice and Fire (as well as the HBO series Game of Thrones).
 
 ## Go
 
@@ -436,6 +432,10 @@
 ## Dockerfile
 
 *   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
+
+## C\#
+
+*   [joakimskoog/AnApiOfIceAndFire](https://github.com/joakimskoog/AnApiOfIceAndFire) - An API of Ice And Fire is the world's greatest source for quantified and structured data from the universe of Ice and Fire (as well as the HBO series Game of Thrones).
 
 ## C
 
