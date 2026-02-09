@@ -25,6 +25,12 @@
 
 ## TypeScript
 
+*   [fi3ework/vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - 💬 Vite plugin that provide checks of TypeScript, ESLint, vue-tsc, Stylelint and more.
+
+*   [dayflow-js/calendar](https://github.com/dayflow-js/calendar) - A lightweight and elegant React full calendar(or React-big-calendar) component for the web, easily integrated with shadcn-ui or any Tailwind-based UI library
+
+*   [pengzhanbo/vite-plugin-mock-dev-server](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - 🚀mock-dev-server is injected into the vite development environment to simulate requests and data responses.在vite 开发环境中注入 mock-dev-server, 模拟请求和数据响应
+
 *   [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) - 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
 
 *   [pd4d10/bytemd](https://github.com/pd4d10/bytemd) - ByteMD v1 repository
@@ -205,8 +211,6 @@
 
 *   [leerob/next-mdx-blog](https://github.com/leerob/next-mdx-blog) - Next.js + MDX blog template with Tailwind CSS and TypeScript.
 
-*   [antfu/iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
-
 ## Java
 
 *   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 空盒子应用
@@ -317,8 +321,6 @@
 
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 
-*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
-
 ## Go
 
 *   [cexll/myclaude](https://github.com/cexll/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
@@ -362,8 +364,6 @@
 *   [woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering) - 一本小书《带你入门前端工程》
 
 *   [the-road-to-learn-react/the-road-to-react](https://github.com/the-road-to-learn-react/the-road-to-react) - 📓The Road to React: Your journey to master React.js
-
-*   [opendigg/awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
 
 ## Vue
 
