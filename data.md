@@ -32,7 +32,7 @@
 
 *   [fi3ework/vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - 💬 Vite plugin that provide checks of TypeScript, ESLint, vue-tsc, Stylelint and more.
 
-*   [dayflow-js/calendar](https://github.com/dayflow-js/calendar) - A lightweight and elegant React/Vue/Angular/Svelte full calendar(or big-calendar) component for the web
+*   [dayflow-js/calendar](https://github.com/dayflow-js/calendar) - A lightweight and elegant React/Vue/Angular/Svelte full calendar(big-calendar) component for the web
 
 *   [pengzhanbo/vite-plugin-mock-dev-server](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - 🚀mock-dev-server is injected into the vite development environment to simulate requests and data responses.在vite 开发环境中注入 mock-dev-server, 模拟请求和数据响应
 
