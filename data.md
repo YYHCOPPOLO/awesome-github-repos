@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
-*   [Shell](#shell)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -21,6 +21,18 @@
 *   [XSLT](#xslt)
 *   [HTML](#html)
 *   [Markdown](#markdown)
+
+## Shell
+
+*   [HenryChiao/MIHOMO\_YAMLS](https://github.com/HenryChiao/MIHOMO_YAMLS) - 一个精心整理的 Mihomo (Clash Meta) 配置文件仓库，通过 GitHub Actions 每日自动同步上游优质规则，提供从入门到进阶的完整解决方案。
+
+*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+
+*   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
+
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+
+*   [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 
 ## TypeScript
 
@@ -214,8 +226,6 @@
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 
-*   [leerob/next-mdx-blog](https://github.com/leerob/next-mdx-blog) - Next.js + MDX blog template with Tailwind CSS and TypeScript.
-
 ## Rust
 
 *   [huanchong-99/GitCortex](https://github.com/huanchong-99/GitCortex) - GitCortex is an AI-driven multi-terminal task orchestration platform that enables multiple AI coding agents (such as Claude Code, Gemini CLI, and Codex) to collaborate in parallel on complex software development tasks.
@@ -231,16 +241,6 @@
 *   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 
 *   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-
-## Shell
-
-*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-
-*   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
-
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
-*   [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 
 ## Python
 
