@@ -54,6 +54,8 @@
 
 *   [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+
 *   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 
 *   [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
@@ -229,8 +231,6 @@
 ## Rust
 
 *   [huanchong-99/GitCortex](https://github.com/huanchong-99/GitCortex) - GitCortex is an AI-driven multi-terminal task orchestration platform that enables multiple AI coding agents (such as Claude Code, Gemini CLI, and Codex) to collaborate in parallel on complex software development tasks.
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 *   [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
 
