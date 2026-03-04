@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [TypeScript](#typescript)
+*   [JavaScript](#javascript)
+*   [Shell](#shell)
+*   [Vue](#vue)
 *   [Rust](#rust)
 *   [Python](#python)
-*   [JavaScript](#javascript)
 *   [Go](#go)
 *   [GDScript](#gdscript)
 *   [Lua](#lua)
 *   [miscellaneous](#miscellaneous)
-*   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [CSS](#css)
 *   [Dockerfile](#dockerfile)
@@ -22,27 +22,15 @@
 *   [HTML](#html)
 *   [Markdown](#markdown)
 
-## Shell
-
-*   [HenryChiao/MIHOMO\_YAMLS](https://github.com/HenryChiao/MIHOMO_YAMLS) - 一个精心整理的 Mihomo (Clash Meta) 配置文件仓库，通过 GitHub Actions 每日自动同步上游优质规则，提供从入门到进阶的完整解决方案。
-
-*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-
-*   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
-
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
-*   [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
-
 ## TypeScript
+
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
 
 *   [pengzhanbo/vite-plugin-mock-dev-server](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - 🚀mock-dev-server is injected into the vite development environment to simulate requests and data responses.在vite 开发环境中注入 mock-dev-server, 模拟请求和数据响应
 
 *   [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
-
-*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 
 *   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 
@@ -226,47 +214,9 @@
 
 *   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 
-*   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
-
-## Rust
-
-*   [huanchong-99/GitCortex](https://github.com/huanchong-99/GitCortex) - GitCortex is an AI-driven multi-terminal task orchestration platform that enables multiple AI coding agents (such as Claude Code, Gemini CLI, and Codex) to collaborate in parallel on complex software development tasks.
-
-*   [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
-
-*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-
-*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-
-*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-
-## Python
-
-*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-
-*   [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
-
-*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-*   [SuperClaude-Org/SuperClaude\_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-
-*   [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
-
-*   [ahpxex/open-dictionary](https://github.com/ahpxex/open-dictionary) - The genuine open dictionary, grounded by Wikitionary and explained more with LLMs
-
-*   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
-
-*   [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
-
-*   [0xType/0xProto](https://github.com/0xType/0xProto) - A high-legibility programming font engineered to minimize cognitive load.
-
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-
-*   [gaplo917/Ligatured-Hack](https://github.com/gaplo917/Ligatured-Hack) - Automatically patch latest Hack Font with latest JetBrains Mono / FiraCode Ligatures
-
 ## JavaScript
+
+*   [leaferjs/LeaferJS](https://github.com/leaferjs/LeaferJS) - 绚丽多彩的 HTML5 Canvas 2D 图形渲染引擎， 可结合 AI 绘图、生成界面。能让你拥有瞬间创建 100 万个图形的超强能力，免费开源、易学易用、场景丰富。
 
 *   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 
@@ -322,49 +272,21 @@
 
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 
-## Go
+## Shell
 
-*   [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
+*   [HenryChiao/MIHOMO\_YAMLS](https://github.com/HenryChiao/MIHOMO_YAMLS) - 一个精心整理的 Mihomo (Clash Meta) 配置文件仓库，通过 GitHub Actions 每日自动同步上游优质规则，提供从入门到进阶的完整解决方案。
 
-*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
-*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
+*   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
 
-*   [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-
-*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-
-*   [unknwon/go-fundamental-programming](https://github.com/unknwon/go-fundamental-programming) - 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
-
-## GDScript
-
-*   [MewPurPur/GodSVG](https://github.com/MewPurPur/GodSVG) - A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.
-
-## Lua
-
-*   [XavierCHN/x-template](https://github.com/XavierCHN/x-template) - DOTA2自定义游戏开发模板项目，使用typesscript和react开发; Xavier's DOTA 2 custom game template using typescript and react-panorama
-
-## miscellaneous
-
-*   [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai) - 霞鹜臻楷：基于「霞鹜文楷」衍生，前期手动加粗调整字形，后期由 AI 生成字形辅助补字的开源中文字体。A bolder weight, AI-assisted font derived from LXGW Wenkai.
-
-*   [xsDoge/info](https://github.com/xsDoge/info) -
-
-*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
-
-*   [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
-
-*   [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
-
-*   [ddgksf2013/Profile](https://github.com/ddgksf2013/Profile) -
-
-*   [woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering) - 一本小书《带你入门前端工程》
-
-*   [the-road-to-learn-react/the-road-to-react](https://github.com/the-road-to-learn-react/the-road-to-react) - 📓The Road to React: Your journey to master React.js
+*   [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 
 ## Vue
+
+*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 
 *   [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
 
@@ -408,6 +330,86 @@
 
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
+## Rust
+
+*   [huanchong-99/GitCortex](https://github.com/huanchong-99/GitCortex) - GitCortex is an AI-driven multi-terminal task orchestration platform that enables multiple AI coding agents (such as Claude Code, Gemini CLI, and Codex) to collaborate in parallel on complex software development tasks.
+
+*   [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
+
+*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
+
+*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+
+*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+
+## Python
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+*   [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+
+*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+*   [SuperClaude-Org/SuperClaude\_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
+
+*   [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+
+*   [ahpxex/open-dictionary](https://github.com/ahpxex/open-dictionary) - The genuine open dictionary, grounded by Wikitionary and explained more with LLMs
+
+*   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
+
+*   [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
+
+*   [0xType/0xProto](https://github.com/0xType/0xProto) - A high-legibility programming font engineered to minimize cognitive load.
+
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
+*   [gaplo917/Ligatured-Hack](https://github.com/gaplo917/Ligatured-Hack) - Automatically patch latest Hack Font with latest JetBrains Mono / FiraCode Ligatures
+
+## Go
+
+*   [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
+
+*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+
+*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+*   [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+
+*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+
+*   [unknwon/go-fundamental-programming](https://github.com/unknwon/go-fundamental-programming) - 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
+
+## GDScript
+
+*   [MewPurPur/GodSVG](https://github.com/MewPurPur/GodSVG) - A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.
+
+## Lua
+
+*   [XavierCHN/x-template](https://github.com/XavierCHN/x-template) - DOTA2自定义游戏开发模板项目，使用typesscript和react开发; Xavier's DOTA 2 custom game template using typescript and react-panorama
+
+## miscellaneous
+
+*   [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai) - 霞鹜臻楷：基于「霞鹜文楷」衍生，前期手动加粗调整字形，后期由 AI 生成字形辅助补字的开源中文字体。A bolder weight, AI-assisted font derived from LXGW Wenkai.
+
+*   [xsDoge/info](https://github.com/xsDoge/info) -
+
+*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
+
+*   [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
+
+*   [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
+
+*   [ddgksf2013/Profile](https://github.com/ddgksf2013/Profile) -
+
+*   [woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering) - 一本小书《带你入门前端工程》
+
+*   [the-road-to-learn-react/the-road-to-react](https://github.com/the-road-to-learn-react/the-road-to-react) - 📓The Road to React: Your journey to master React.js
+
 ## Kotlin
 
 *   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
@@ -443,8 +445,6 @@
 *   [mk965/mengke.me](https://github.com/mk965/mengke.me) - My 🏠 on the ☁️. Portfolio, showcases, snippets, and development logs
 
 *   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-
-*   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 
 ## XSLT
 
