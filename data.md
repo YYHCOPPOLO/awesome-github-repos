@@ -24,7 +24,7 @@
 
 ## TypeScript
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 
 *   [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
 
