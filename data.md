@@ -104,7 +104,7 @@
 
 ## C\#
 
-*   [Gennadiyev/STS2MCP](https://github.com/Gennadiyev/STS2MCP) - A Slay the Spire 2 mod that allows programmatic engagement with in-game battles with optional MCP support.
+*   [Gennadiyev/STS2MCP](https://github.com/Gennadiyev/STS2MCP) - Full agentic runs for Slay the Spire 2. A mod that exposes in-game state, and the MCP server for the mod.
 
 ## miscellaneous
 
