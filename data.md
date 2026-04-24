@@ -30,8 +30,6 @@
 
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
-*   [rive-app/rive-react](https://github.com/rive-app/rive-react) - React runtime for Rive
-
 *   [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 
 *   [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
@@ -100,7 +98,7 @@
 
 *   [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue
 
-*   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+*   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 
 *   [linjc/mini-stores](https://github.com/linjc/mini-stores) - 高性能小程序全局多状态管理库，解决小程序跨页面跨组件通信，支持多平台小程序使用。
 
@@ -328,7 +326,7 @@
 
 *   [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 
-*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 
 *   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 
@@ -429,6 +427,8 @@
 *   [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 
 *   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
+
+*   [lvming6816077/report-monitor](https://github.com/lvming6816077/report-monitor) - 【Report Monitor】一款完整、高性能、高可用的打点监控和统计平台
 
 ## C
 
